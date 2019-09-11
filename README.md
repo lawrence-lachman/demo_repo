@@ -1,2 +1,2 @@
 # demo_repo
-Demo repository for tutorial
+Demo repository for tutorial.  Hello world!
